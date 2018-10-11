@@ -23,7 +23,7 @@ localhost/evaluation7-v2/eval_cms_sophie
 - Suivre le guide d'installation de wordpress en indiquant les informations de votre base de données, choisissez vos identifiants et connectez-vous
 
 - Dans le tableau de bord wordpress, cliquer sur Extensions et activer le plugin All-in-One WP Migration
-- Dans le menu d'administration apparaît All in One, cliquer sur import from -> file et choississez le fichier :
+- Dans le menu d'administration apparaît All in One, cliquer sur immport/import from -> file et choississez le fichier :
  	monlocal.local-eval_cms_sophie-20181011-115734-947.wpress
 
 - Dès lors, les identifiants changent :
